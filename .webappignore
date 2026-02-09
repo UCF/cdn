@@ -1,0 +1,6 @@
+./update-athena.sh
+.webappignore
+staticwebapp.config.json
+.gitignore
+.editorconfig
+.github/*

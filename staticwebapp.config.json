@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "redirect": "https://www.ucf.edu"
+    }
+  ]
+}
