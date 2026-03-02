@@ -1,4 +1,7 @@
 {
+  "globalHeaders": {
+    "Access-Control-Allow-Origin": "*"
+  },
   "routes": [
     {
       "route": "/",
